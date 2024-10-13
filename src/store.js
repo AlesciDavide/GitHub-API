@@ -5,4 +5,6 @@ export const store = reactive({
         "Home",
         "portfolio",
     ],
+    project: [],
+    search: "",
 });
