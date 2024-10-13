@@ -1,0 +1,27 @@
+/* reset */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* reset style list e link */
+ul{
+    list-style: none;
+}
+
+router-link{
+    text-decoration: none;
+    color:inherit;
+}
+
+a {
+    text-decoration: none;
+    color:inherit;
+}
+
+/* flex */
+
+.dFlex{
+    display: flex;
+}
+
